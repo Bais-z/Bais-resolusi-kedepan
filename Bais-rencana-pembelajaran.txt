@@ -5,4 +5,6 @@ RENCANA PEMBELAJARAN BAIS
 - JAVASCRIPT
 * ES6
 * Framework Javascript
+  * Angular.js
+  * React.js
 - GIT & GITHUB
