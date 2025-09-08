@@ -1,4 +1,6 @@
 RENCANA PEMBELAJARAN BAIS
 - HTML & CSS
 - JAVASCRIPT
+* ES6
+* Framework Javascript
 - GIT & GITHUB
