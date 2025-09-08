@@ -6,4 +6,5 @@ RENCANA PEMBELAJARAN BAIS
 * ES6
 * Framework Javascript
   * Rect.js
+  * Vue.js
 - GIT & GITHUB
