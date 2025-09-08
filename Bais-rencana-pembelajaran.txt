@@ -1,5 +1,7 @@
 RENCANA PEMBELAJARAN BAIS
 - HTML & CSS
+* Bootstrap
+* Tailwind css
 - JAVASCRIPT
 * ES6
 * Framework Javascript
