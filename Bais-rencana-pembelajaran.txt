@@ -7,4 +7,5 @@ RENCANA PEMBELAJARAN BAIS
 * Framework Javascript
   * Angular.js
   * React.js
+  * Node.js
 - GIT & GITHUB
